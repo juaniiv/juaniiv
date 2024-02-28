@@ -13,8 +13,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=juaniiv&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juaniiv&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br><br>
 
-# 💼 Proyectos:<br><br>
-- [Final de JavaScript] (https://github.com/juaniiv/javascript-final)
+
+
 
 
   
